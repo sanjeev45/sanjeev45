@@ -1,0 +1,2 @@
+CREATE DATABASE myrestureant;
+SHOW DATABASE
